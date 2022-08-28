@@ -1,0 +1,19 @@
+{
+  "name": "@lifrimorlon/uxlifri",
+  "version": "1.0.0",
+  "description": "Módulo DOM de prueba para publicarlo en npm",
+  "main": "uxLifri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sedbastian/uxLifri.git"
+  },
+  "author": "Lifri Morlon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sedbastian/uxLifri/issues"
+  },
+  "homepage": "https://github.com/Sedbastian/uxLifri#readme"
+}
